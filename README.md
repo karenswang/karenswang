@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karen Wang.
-- 🌱 I’m a rising graduate student at the dual degree of Computer Science and Journalism at Columbia University. 
-- 👀 I’m interested in computational journalism, including using data, design and code to explore different aspects of journalism.
-- 🌟 To learn more about me, feel free to visit my personal website: https://www.karenswang.com/
+- 🌱 I’m a graduate student at Columbia University with dual MS in Computer Science and Journalism. 
+- 👀 I’m interested in all things data, coding, computational, machine learning, etc. Especially the application of these aspects in journalism.
+- 🌟 Find out more about me via [my site](https://www.karenswang.com/) or [LinkedIn](https://www.linkedin.com/in/karen-siqi-wang/).
 
 
 <!---
