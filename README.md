@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Karen Wang.
-- 🌱 I’m a graduate student at Columbia University with dual MS in Computer Science and Journalism. 
-- 👀 My interests (still expanding): data viz, data science/machine learning, computational journalism.
-- 🌟 Find out more about me via [my site](https://www.karenswang.com/) or [LinkedIn](https://www.linkedin.com/in/karen-siqi-wang/).
+👋 Hi, I’m Karen Wang.
+🌱 I’m a graduate student at Columbia University studying Computer Science and Journalism. 
+👀 I have so many interests! Talk to me about computational journalism, software engineering, database, data viz, ML, LLM, ...
+🌟 I also have a [site](https://www.karenswang.com/) and [LinkedIn](https://www.linkedin.com/in/karen-siqi-wang/).
 
 
 <!---
