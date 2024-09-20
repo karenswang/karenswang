@@ -1,4 +1,4 @@
-👋 Hi, I’m Karen Wang. \
+👋 Hi, I’m Karen Wang. Currently working as a software engineer at The Washington Post. \
 🌱 I graduated from Columbia University with Computer Science and Journalism degrees.
 👀 I have so many interests! Talk to me about computational journalism, software engineering, database, data viz, ML, LLM, ... \
 🌟 [LinkedIn](https://www.linkedin.com/in/karen-siqi-wang/).
